@@ -2,6 +2,6 @@
 Simple BreakOut Game in Java
 
 
-Controls:
-A: left
-D: right
+Controls:  
+A: left  
+D: right  
